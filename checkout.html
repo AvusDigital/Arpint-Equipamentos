@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="pt-BR" class="dark">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="icon" href="./assets/images/logo/favicon.ico">
+    <meta name="robots" content="noindex">
+    <title>Finalizar compra | Arpint</title>
+    <link rel="stylesheet" href="./assets/css/output.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+<body class="bg-arpint text-main">
+
+    <header class="fixed inset-x-0 top-0 z-50 border-b border-theme bg-arpint/85 backdrop-blur-xl">
+
+        <nav class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-5 py-3 md:px-8">
+            <a href="./index.html" class="shrink-0">
+                <img src="./assets/images/logo/logo.png" alt="Arpint - Equipamentos para Pintura" class="logo-img logo-light w-[150px] sm:w-[190px]">
+                <img src="./assets/images/logo/logo-light.png" alt="Arpint - Equipamentos para Pintura" class="logo-img logo-dark w-[150px] sm:w-[190px]">
+            </a>
+            <div class="hidden items-center gap-7 text-sm font-bold md:flex">
+                <a href="./index.html" class="text-muted hover:orange transition">Início</a>
+                <a href="./produtos.html" class="text-muted hover:orange transition">Produtos</a>
+                <a href="./index.html#empresa" class="text-muted hover:orange transition">Empresa</a>
+                <a href="./index.html#contato" class="text-muted hover:orange transition">Contato</a>
+            </div>
+            <div class="flex items-center gap-2">
+                <button data-theme-toggle
+                    class="theme-btn flex h-10 w-10 items-center justify-center rounded-xl transition hover:border-orange"
+                    title="Alternar tema"><span data-theme-icon>☾</span></button>
+                <a href="./carrinho.html"
+                    class="relative flex h-10 items-center gap-2 rounded-xl border border-theme bg-panel px-3 text-sm font-black transition hover:border-orange"><span>🛒</span><span
+                        class="hidden sm:inline">Carrinho</span><b data-cart-count
+                        class="flex h-5 min-w-5 items-center justify-center rounded-full bg-orange px-1 text-[11px] text-white">0</b></a>
+                <button data-mobile-toggle
+                    class="flex h-10 w-10 items-center justify-center rounded-xl border border-theme bg-panel md:hidden">☰</button>
+            </div>
+        </nav>
+        <div id="mobile-menu" class="hidden border-t border-theme bg-panel md:hidden">
+            <div class="mx-auto flex max-w-7xl flex-col gap-1 px-5 py-4 text-sm font-bold">
+                <a class="rounded-lg px-3 py-3" href="./index.html">Início</a>
+                <a class="rounded-lg px-3 py-3" href="./produtos.html">Produtos</a>
+                <a class="rounded-lg px-3 py-3" href="./index.html#empresa">Empresa</a>
+                <a class="rounded-lg px-3 py-3" href="./index.html#contato">Contato</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="pt-28">
+
+        <div class="mx-auto max-w-6xl px-5 py-12 md:px-8">
+
+            <div class="stepper" role="list" aria-label="Etapas da compra">
+                <div class="step active" id="st-1" role="listitem"><span class="n">1</span>Dados pessoais</div>
+                <div class="step" id="st-2" role="listitem"><span class="n">2</span>Pagamento</div>
+                <div class="step" id="st-3" role="listitem"><span class="n">3</span>Obrigado</div>
+            </div>
+
+            <div class="mt-8 grid gap-8 lg:grid-cols-[1fr_380px]">
+
+                <form id="checkout-form" class="space-y-6" novalidate>
+
+                    <!-- ETAPA 1 -->
+                    <section id="step-1" class="rounded-2xl border border-theme bg-panel p-6 md:p-8">
+                        <h1 class="text-2xl font-black md:text-3xl">Seus dados</h1>
+                        <p class="mt-2 text-sm text-muted">Usamos esses dados para emitir o pedido e falar com você sobre a entrega.</p>
+                        <div class="mt-6 grid gap-5 sm:grid-cols-2">
+                            <label class="sm:col-span-2"><span class="text-xs font-black uppercase tracking-wider text-muted">Seu nome</span>
+                                <input required id="name" autocomplete="name" class="input-theme mt-2" placeholder="Digite seu nome completo"></label>
+                            <label><span class="text-xs font-black uppercase tracking-wider text-muted">CPF ou CNPJ</span>
+                                <input required id="doc" inputmode="numeric" autocomplete="off" class="input-theme mt-2" placeholder="Somente números"></label>
+                            <label><span class="text-xs font-black uppercase tracking-wider text-muted">WhatsApp</span>
+                                <input required id="phone" type="tel" inputmode="tel" autocomplete="tel" class="input-theme mt-2" placeholder="(00) 00000-0000"></label>
+                            <label class="sm:col-span-2"><span class="text-xs font-black uppercase tracking-wider text-muted">Seu e-mail</span>
+                                <input required id="email" type="email" autocomplete="email" class="input-theme mt-2" placeholder="Digite o e-mail onde enviaremos as informações do pedido"></label>
+                        </div>
+                        <button type="button" id="next-btn" class="btn-orange mt-8 w-full rounded-xl py-4 text-lg font-black sm:w-auto sm:px-14">Próximo passo</button>
+                    </section>
+
+                    <!-- ETAPA 2 -->
+                    <section id="step-2" class="hidden space-y-6">
+
+                        <div class="rounded-2xl border border-theme bg-panel p-6 md:p-8">
+                            <h2 class="text-2xl font-black">Endereço de entrega</h2>
+                            <div class="mt-5 grid gap-4 sm:grid-cols-6">
+                                <input required id="cep" inputmode="numeric" autocomplete="postal-code" maxlength="9" class="input-theme sm:col-span-2" placeholder="CEP" aria-label="CEP">
+                                <input required id="street" autocomplete="address-line1" class="input-theme sm:col-span-4" placeholder="Rua / Avenida" aria-label="Rua">
+                                <input required id="number" class="input-theme sm:col-span-2" placeholder="Número" aria-label="Número">
+                                <input id="complement" class="input-theme sm:col-span-4" placeholder="Complemento (opcional)" aria-label="Complemento">
+                                <input required id="district" class="input-theme sm:col-span-2" placeholder="Bairro" aria-label="Bairro">
+                                <input required id="city" autocomplete="address-level2" class="input-theme sm:col-span-3" placeholder="Cidade" aria-label="Cidade">
+                                <input required id="uf" maxlength="2" autocomplete="address-level1" class="input-theme sm:col-span-1 uppercase" placeholder="UF" aria-label="UF">
+                            </div>
+                        </div>
+
+                        <div class="rounded-2xl border border-theme bg-panel p-6 md:p-8">
+                            <h2 class="text-2xl font-black">Frete</h2>
+                            <p id="ship-hint" class="mt-3 text-sm text-muted">Digite o CEP para ver as opções de envio.</p>
+                            <div id="ship-options" class="mt-4 grid gap-3" aria-live="polite"></div>
+                        </div>
+
+                        <div class="rounded-2xl border border-theme bg-panel p-6 md:p-8">
+                            <h2 class="text-2xl font-black">Pagamento</h2>
+                            <div id="pay-whatsapp" class="hidden">
+                                <p class="mt-3 text-sm text-muted">Como prefere pagar?</p>
+                                <div class="mt-3 grid gap-3 sm:grid-cols-2">
+                                    <label class="ship-option cursor-pointer selected" id="pay-pix-label"><span><b>Pix</b><br><span class="text-xs text-muted">Aprovação na hora</span></span><input type="radio" name="pagamento" value="pix" checked class="accent-[#ff6a00]"></label>
+                                    <label class="ship-option cursor-pointer" id="pay-cartao-label"><span><b>Cartão de crédito</b><br><span class="text-xs text-muted">Link seguro enviado pela equipe</span></span><input type="radio" name="pagamento" value="cartao" class="accent-[#ff6a00]"></label>
+                                </div>
+                                <p class="mt-4 text-sm text-muted">Ao finalizar, seu pedido abre pronto no <b>WhatsApp da Arpint</b> e nossa equipe envia o Pix ou o link do cartão para você pagar com segurança.</p>
+                            </div>
+                            <p id="pay-gateway" class="mt-3 hidden text-sm text-muted">Ao continuar, você será levado ao ambiente seguro de pagamento para pagar com cartão ou Pix. Não pedimos nem guardamos dados do seu cartão.</p>
+                        </div>
+
+                        <div class="flex flex-col-reverse gap-3 sm:flex-row sm:items-center">
+                            <button type="button" id="back-btn" class="rounded-xl border border-theme px-6 py-4 font-black hover:orange">← Voltar</button>
+                            <button id="pay-btn" class="btn-orange flex-1 rounded-xl py-4 text-lg font-black disabled:opacity-40">Finalizar pedido</button>
+                        </div>
+                    </section>
+
+                    <p id="form-error" class="hidden text-sm font-bold text-red-400" role="alert"></p>
+
+                </form>
+
+                <aside class="h-fit rounded-2xl border border-theme bg-panel p-6 lg:sticky lg:top-28">
+
+                    <span class="secure-ribbon">🔒 Compra segura</span>
+
+                    <h2 class="mt-4 text-xl font-black">Resumo do pedido</h2>
+
+                    <div id="summary" class="mt-5 grid gap-3"></div>
+
+                    <div class="my-5 border-t border-theme"></div>
+
+                    <p class="text-xs font-black uppercase tracking-wider text-muted">Total</p>
+                    <p id="checkout-total" class="mt-1 text-4xl font-black orange">R$ 0,00</p>
+
+                    <div class="mt-5 flex flex-wrap gap-2"><span class="pay-chip">Pix</span><span class="pay-chip">Cartão de crédito</span></div>
+
+                    <p class="mt-5 text-[11px] leading-5 text-muted">Ao continuar você concorda com nossas <a class="underline" href="./politicas.html" target="_blank" rel="noopener">políticas de entrega, troca e privacidade</a>. Seus dados são usados só para processar este pedido.</p>
+
+                </aside>
+            </div>
+        </div>
+    </main>
+
+    <footer class="border-t border-theme bg-panel2">
+
+        <div class="mx-auto grid max-w-7xl gap-10 px-5 py-12 md:grid-cols-3 md:px-8">
+
+            <div><img src="./assets/images/logo/logo.png" alt="Arpint" class="logo-img logo-light w-[190px]">
+                <img src="./assets/images/logo/logo-light.png" alt="Arpint" class="logo-img logo-dark w-[190px]">
+
+                <p class="mt-4 max-w-sm text-sm leading-6 text-muted">Equipamentos profissionais para pintura automotiva
+                    e industrial, com foco em precisão, produtividade e acabamento.</p>
+
+            </div>
+
+            <div>
+
+                <h3 class="font-black">Navegação</h3>
+
+                <div class="mt-4 grid gap-2 text-sm text-muted">
+
+                    <a href="./produtos.html">Produtos</a>
+
+                    <a href="./index.html#empresa">Sobre a Arpint</a>
+
+                    <a href="./carrinho.html">Carrinho</a>
+
+                    <a href="./index.html#contato">Contato</a>
+
+                </div>
+            </div>
+
+            <div>
+
+                <h3 class="font-black">Atendimento</h3>
+
+                <p class="mt-4 text-sm leading-6 text-muted">Segunda a sexta, das 8h às 18h.</p>
+
+                <p class="mt-5 text-sm text-muted">© 2026 Arpint. Todos os direitos reservados.</p>
+
+                <p class="mt-2 text-sm text-muted">Desenvolvido por
+                    <a class="orange font-bold" href="https://portfolio-avusdigital.vercel.app/" target="_blank">Avus
+                        Digital</a>
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="./assets/js/config.js"></script>
+
+    <script src="./assets/js/common.js"></script>
+    <script src="./assets/js/suporte.js"></script>
+    <script src="./assets/js/rodape.js"></script>
+    <script src="./assets/js/checkout.js"></script>
+</body>
+
+</html>

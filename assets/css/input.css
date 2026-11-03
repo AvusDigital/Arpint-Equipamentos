@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-arpint-orange: #ff6a00;
+  --color-arpint-black: #0b0b0b;
+  --color-arpint-panel: #151515;
+  --color-arpint-metal: #242424;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));

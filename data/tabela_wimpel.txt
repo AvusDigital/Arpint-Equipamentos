@@ -1,0 +1,482 @@
+TABELA DE EQUIPAMENTOS E ACESSÓRIOS - WIMPEL (Abril 2026)
+
+LINHA PREMIUM
+
+PISTOLAS HVLP/LVLP
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+02298	MP-560 Pistola de Pintura HVLP 1.3mm (MALETA)	R$ 190,00	
+02409	MP-610 Pistola de Pintura 1.3mm HVLP (MALETA)	R$ 175,00	
+02407			
+
+MP-610 Pistola de Pintura 1.3mm HVLP "CAIXA BLACK" (S/Manômetro)
+
+PRODUTO EM PROMOÇÃO
+
+R$ 155,00	
+01802	
+
+MP-260 / MP-262 1.2 mm e 1.3 mm HVLP MALETA (S/Manômetro)
+
+PRODUTO EM PROMOÇÃO
+
+R$ 158,00	
+02333	
+
+MP-600 Pistola de Pintura 1.3mm HVLP "PLUS"
+
+PRODUTO EM PROMOÇÃO
+
+R$ 130,00	
+02637	
+
+MP-800 BTS Pistola HVLP 1.3mm HVLP (MALETA)
+
+PRODUTO EM PROMOÇÃO
+
+R$ 1.350,00			
+01797	MP-260 Pistola de Pintura 1.3mm HVLP (MALETA)	R$ 850,00	
+02477	MP-700 Pistola de Pintura 1.3mm HVLP "PLUS"	R$ 800,00	
+01795	MP-260 Pistola de Pintura 1.3mm HVLP "CAIXA BLACK" (S/Manômetro)	R$ 750,00	
+03415			
+
+MP-570 Pistola de Pintura HVLP 1.3mm
+
+PRODUTO EM PROMOÇÃO
+
+R$ 520,00	
+
+LINHA STANDARD
+
+PISTOLAS HVLP/LVLP
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+02098	MP-410 Pistola de Pintura 1.3mm LVLP (MALETA)	R$ 480	
+03436	MP-410 Pistola de Pintura 1.3mm LVLP "CAIXA BLACK" (Com Manômetro)	R$ 450	
+03462	MP-350 Pistola de Pintura 1.3mm HVLP com KIT AB 1.4mm	R$ 280	
+03416	MP-350 Pistola de Pintura 1.4mm HVLP	R$ 275	
+03417	VD-250 Pistola de Pintura 1.4mm "Standard" HVLP	R$ 180	
+03418	VD-250 Pistola de Pintura 1.7mm "Standard" HVLP	R$ 180	
+
+PISTOLAS GRAVIDADES CONVENCIONAIS
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+01886	MP-269 Pistola de Pintura 4.0mm com Kit ABC 1.4mm	R$ 650	
+01885	MP-269 Pistola de Pintura 2.5mm com Kit ABC 1.4mm	R$ 600	
+01881	MP-269 Pistola de Pintura 1.4mm	R$ 480	
+01511	MP-2011 Pistola de Pintura 1.5mm (Corpo Nylon)	R$ 150	
+
+PISTOLA DE TEXTURA
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+01481	MP-2000 Pistola de Textura	R$ 250	
+
+PISTOLAS GRAVIDADES (RETOQUE)
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+01417	MP-105 Pistola de Pintura 1.2mm	R$ 320	
+03435	VD-201 Pistola de Pintura 1.0mm 250ml	R$ 190	
+01489	MP-201 Pistola de Pintura 0.8mm 250ml	R$ 190	
+01498	MP-2010 Pistola de Pintura 0.7mm (Corpo Nylon)	R$ 130	
+
+PISTOLAS DIVERSAS E EQUIPAMENTOS (31/03/2026)
+
+PISTOLAS GRAVIDADES/SUCÇÃO (AR DIRETO)
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+01677	MP-21 Pistola de Pintura Alumínio 1.4mm	R$ 180	
+01655	MP-201AD Pistola de Pintura Ar Direto 1.0mm 250ml	R$ 180	
+01656	MP-201AD Pistola de Pintura Ar Direto 0.8mm 250ml	R$ 180	
+01698	MP-22 Pistola de Pintura Plástica 1.2mm	R$ 120	
+
+PISTOLAS SUCÇÃO (ALTA PRODUÇÃO)
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00279			
+
+CP-10 Pistola de Pintura 1.8mm INOX
+
+PRODUTO EM PROMOÇÃO
+
+R$ 380			
+02129	MP-410 Pistola de Pintura 1.8mm INOX	R$ 480	
+
+PISTOLAS P/ TANQUE DE PRESSÃO
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00714	K-591 Pistola de Pintura 1.0 mm HVLP INOX	R$ 2.200	
+00716	K-591 Pistola de Pintura 1.4 mm HVLP INOX	R$ 2.200	
+02164	MP-410 Pistola de Pintura 1.0mm INOX	R$ 520	
+00330	CP-10 Pistola de Pintura 1.0mm INOX	R$ 480	
+
+PISTOLA BAIXA PRODUÇÃO
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+02605	MP-781 Pistola de Pintura 1.4mm	R$ 380	
+
+PISTOLAS MEDIA PRODUÇÃO
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+02635			
+
+MP-791 Pistola de Pintura Gravidade 1.4mm INOX
+
+PRODUTO EM PROMOÇÃO
+
+R$ 233,00			
+02567	MP-741 Pistola de Pintura Sucção 1.5mm INOX	R$ 420	
+03419	VD-61 Pistola de Pintura Gravidade 1.4 mm	R$ 160	
+03420	VD-61 Pistola de Pintura Gravidade 1.8 mm	R$ 160	
+
+PISTOLA AIRLESS
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00333	CW-10 AIRLESS	R$ 2.000	
+
+WIMLED'S
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+03291	Wimled 22/34	R$ 250	
+03292	Wimled 35/47	R$ 250	
+
+BICOS DE LIMPEZA
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00120	BLMP-1 Bico de Limpeza	R$ 38	
+00121	BLMP-2 Bico de Limpeza	R$ 26	
+00122	BLMP-2L Bico de Limpeza Longo	R$ 30	
+00123	BLMP-3 Bico de Limpeza Plástico	R$ 22	
+
+PISTOLA DE EMBORRACHAR (BATE PEDRA)
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+01468	MP-19 Pistola de Emborrachar sem Caneca (Bate Pedra)	R$ 150	
+01451	MP-18 Pistola de Emborrachar sem Caneca (Bate Pedra)	R$ 100	
+03336	MP-18 Tampa com Pescador para Lata de 1/4	R$ 75	
+
+PULVERIZADOR
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+02833	PVMP-1 Pulverizador de Alumínio com Tubo Plástico	R$ 55	
+02834	PVMP-2 Pulverizador em Nylon com Tubo Plástico	R$ 37	
+02850	Spray Jet Plástico (Azul)	R$ 18	
+
+MAQUINÁRIOS, FERRAMENTAS E ACESSÓRIOS (31/03/2026)
+
+LIXADEIRAS
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00943	LXMP-5 Lixadeira a Seco c/ Coletor	R$ 420	
+00835	LXMP-3000 Lixadeira de Parede Eletrica c/ Lâmpada 800W/220V	R$ 1.500	
+00991	LXMP-700 Lixadeira de Parede 800W/220V	R$ 900	
+
+FILTROS REGULADORES
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00577			
+
+FRMP-4 Filtro Regulador de Ar 01 Saída 1/4
+
+PRODUTO EM PROMOÇÃO
+
+R$ 250	
+00618	
+
+FRMP-5 Filtro Regulador de Ar 02 Saídas 3/8
+
+PRODUTO EM PROMOÇÃO
+
+R$ 350	
+00658	
+
+FRMP-6 Filtro Regulador de Ar 02 Saídas 1/2
+
+PRODUTO EM PROMOÇÃO
+
+R$ 350	
+
+FILTROS REGULADORES E LUBRIFICADORES
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00446			
+
+FRLMP-4 Filtro Regulador e Lubrificador 1/4
+
+PRODUTO EM PROMOÇÃO
+
+R$ 320	
+00470	
+
+FRLMP-5 Filtro Regulador e Lubrificador 3/4
+
+PRODUTO EM PROMOÇÃO
+
+R$ 380	
+
+AERÓGRAFOS
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+01205	MP-1001 Aerógrafo Bico 0,35mm (Caneca Gravidade)	R$ 220	
+01237	MP-1002 Aerógrafo Bico 0,35mm (Caneca Gravidade)	R$ 220	
+01304	MP-1003 Aerógrafo Bico 0,35mm (Caneca Gravidade e Sucção)	R$ 220	
+01305	MP-1004 Aerógrafo Bico 0,35mm (2 Canecas Plásticas)	R$ 220	
+01309	MP-1005 Aerógrafo Bico 0,35mm (Caneca Gravidade)	R$ 220	
+
+MISTURADOR DE TINTA
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+03332	MP-207 Misturador de Tinta Elétrico 220V 1250W	R$ 650	
+
+SOPRADOR
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00340	Soprador de Tintas a Base de Água	R$ 275	
+
+ASPIRADOR DE PÓ
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+02294	MP-506 Aspirador de Pó	R$ 1.700	
+
+CHECK COLOR
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00175	Check Color para Acerto de Cores Branca (Caixa com 100 unidades)	R$ 42,00	
+00176	Check Color para Acerto de Cores Primer (Caixa com 100 unidades)	R$ 42,00	
+
+TANQUES DE PRESSÃO MANUAL
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+03002	TPMP-2 Tanque de Pressão de 02 Litros	R$ 450	
+02870	TPMP-10 CH Tanque de Pressão 10 Litros	R$ 1.250	
+02900	TPMP-20M Tanque de Pressão 20 Litros	R$ 4.700	
+03004	TPMP-40M Tanque de Pressão 40 Litros	R$ 5.700	
+03105	TPMP-60M Tanque de Pressão 60 Litros	R$ 6.900	
+
+TANQUE DE PRESSÃO PNEUMÁTICOS
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+02947	TPMP-20P Tanque de Pressão 20 Litros	R$ 6.800	
+03051	TPMP-40P Tanque de Pressão 40 Litros	R$ 7.500	
+03146	TPMP-60P Tanque de Pressão 60 Litros	R$ 8.300	
+
+COMPRESSORES, CABINES E EPIS (31/03/2026)
+
+MINI COMPRESSORES/PISTOLAS PULVERIZADORAS
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00178			
+
+COMP-1 Compressor p/ Aerógrafo (Bivolt)
+
+PRODUTO EM PROMOÇÃO
+
+R$ 1.150	
+00210	
+
+COMP-2 Compressor Ar Direto (Bivolt)
+
+PRODUTO EM PROMOÇÃO
+
+R$ 650	
+00239	
+
+COMP-3 Compressor Mini p/ Aerógrafo
+
+PRODUTO EM PROMOÇÃO
+
+R$ 550			
+00253	COMP-4 Compressor Portátil c/ Pistola Pulverizadora 110V	R$ 450	
+00262	COMP-5 Compressor c/ Pistola Ar Direto Bivolt	R$ 650	
+00265	COMP-6 Compressor Portátil c/ Pistola Pulverizadora 110V	R$ 450	
+00267	COMP-6 Compressor Portátil c/ Pistola Pulverizadora 220V	R$ 450	
+
+COMPRESSORES COM RESERVATÓRIO
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+01436	Compressor 15 Pés AP 175LBS 200L 5HP Trifásico 220/380V	R$ 3.685,00	
+01449	Compressor 15 Pés BP 125LBS 200L 5HP Sem Motor	R$ 3.080,00	
+01478	Compressor 20 Pés AP 175LBS 250L 10HP Trifásico 220/380V	R$ 7.480,00	
+
+CABINE / SUPORTE / FILTRO PARA CABINE (CHAPINHA)
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00137	Cabine de Pintura Wimpel (Acerto de Chapinha)	R$ 4.800	
+03400	Cabine de Pintura Wimpel / Cetec (Acerto de Chapinha)	R$ 5.500	
+02857	Suporte para Cabine de Pintura Wimpel (Acerto de Chapinha)	R$ 1.094,25	
+00413	Filtro para Cabine de Pintura (Acerto de Chapinha)	R$ 80,00	
+
+MINI CABINE / FILTRO / ACESSÓRIOS PARA AEROGRAFIA
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00139	Cabine de Pintura p/ Aerógrafo c/ LED com Duto de Exaustão	R$ 1.550	SIM
+00141	Mini Cabine de Pintura p/ Aerógrafo c/ LED com Duto de Exaustão	R$ 1.350	SIM
+00138	Mini Cabine de Pintura p/ Aerógrafo c/ LED sem Duto de Exaustão	R$ 1.050	SIM
+00411	Filtro para Mini Cabine de Aerógrafo	R$ 65	
+03315	Engate Rápido para Aerógrafo Sem regulador com Pino	R$ 40,00	SIM
+02808	Pino Fêmea para Engate Rápido do Aerógrafo	R$ 15,00	SIM
+01166	Mini Filtro para Aerógrafo	R$ 45,00	
+00662	Suporte de Bancada para 2 Aerógrafos	R$ 110,00	
+
+EPI'S / ACESSÓRIOS
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+02806	Máscara PFF1 (Caixa c/ 100un)	R$ 420,00	
+03395	Respirador Semi-Facial Mastt 2401-VO/P2/Tampa (1 un)	R$ 75,00	
+03382	Respirador Semi-Facial Mastt 2402-VO/P2/Tampa Duplo (1 un)	R$ 95,00	
+00177	Filtro Químico VO para Respirador Mastt - CMA-1 (1 un)	R$ 35,00	
+02842	Filtro Mecânico P2 Azul SE-1 (Embalagem 10 un)	R$ 45,00	
+02865	Tampa Plástica para Filtro do Respirador - TM01-P (1 un)	R$ 9,00	
+
+KIT'S DE PEÇAS (31/03/2026)
+
+KIT'S DE PEÇAS (ENCARTELADOS)
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00769	Kit para Filtro Regulador de Ar FRMP-1 e FRMP-4	—	
+00770	Kit para Filtro Regulador de Ar FRMP-2 e FRMP-5	—	
+00766	Kit Engate Rápido com Espigão Fixo e Abraçadeira	R$ 50,00	SIM
+00129	Kit Engate Rápido Vazão Plena, Pino Femea Vazão Plena e Abraçadeira	R$ 55,00	SIM
+00773	Kit Pino de Engate com 2 Peças "Fêmea"	R$ 22,00	SIM
+00774	Kit Pino de Engate com 2 Peças "Macho"	R$ 22,00	SIM
+00131	Kit Pino de Engate com 2 Peças "Fêmea" Vazão Plena	R$ 25,00	SIM
+00132	Kit Pino de Engate com 2 Peças "Macho" Vazão Plena	R$ 25,00	SIM
+00767	Kit Espigão Fixo 5/16" com 2 Peças	R$ 28,00	SIM
+00764	Kit Abraçadeiras com 6 peças	R$ 25,00	SIM
+03262	Kit União Giratória 5/16" com 2 Peças	R$ 28,00	SIM
+00768	Kit Filtro Plástico para Canecas com 5 unidades (Peneirinha)	R$ 38,00	
+00276	Kit Reparo Pistola CP-10	R$ 85,00	
+01679	Kit Reparo Pistola MP-21	R$ 30	
+01700	Kit Reparo Pistola MP-22	R$ 25	
+01387	Kit Reparo Pistola MP-105 / MP-791G	R$ 65,00	
+01495	Kit Reparo Pistola MP-201	R$ 65,00	
+01887	Kit Reparo Pistola MP-269	R$ 75,00	
+02012	Kit Reparo Pistola MP-400 / MP-410 LVLP P/ Tanque	R$ 75,00	
+02051	Kit Reparo Pistola MP-400 / MP-410 Sucção	R$ 85,00	
+00759	Kit Reparo Pistola K-591 HVLP	R$ 120,00	
+01754	Kit Reparo Pistola MP-250 HVLP	R$ 65,00	
+02566	Kit Reparo Pistola MP-741 / MP-781	R$ 65,00	
+02338	Kit Reparo Pistola MP-600 / MP-610	R$ 150,00	
+02483	Kit Reparo Pistola MP-700 / MP-710	R$ 120,00	
+00332	Kit Bico/Agulha Pistola CP-10 Tanque 1.0mm	R$ 180,00	
+00277	Kit Bico/Agulha Pistola CP-10 Sucção 1.8mm	R$ 150,00	
+01680	Kit Bico/Agulha Pistola MP-21 1.4mm	R$ 40,00	
+01701	Kit Bico/Agulha Pistola MP-22 1.2mm	R$ 40,00	
+01388	Kit Bico/Agulha Pistola MP-105 1.2mm	R$ 120,00	
+01889	Kit Bico/Agulha Pistola MP-269 1.4mm	R$ 170	
+01891	Kit Bico/Agulha Pistola MP-269 2.5mm	R$ 170	
+01892	Kit Bico/Agulha Pistola MP-269 4.0mm	R$ 170	
+02007	Kit Bico/Agulha Pistola MP-400 / MP-410 LVLP 1.3mm	R$ 150	
+02097	Kit Capa/Bico/Agulha Pistola MP-410 Tanque 1.0mm	R$ 250	
+02052	Kit Bico/Agulha Pistola MP-400 / MP-410 Sucção 1.8mm	R$ 150	
+03333	Kit Bico/Agulha Pistola K-591 HVLP 1.0mm	R$ 420	
+03334	Kit Bico/Agulha Pistola K-591 HVLP 1.4mm	R$ 420	
+01755	Kit Bico/Agulha Pistola MP-250 HVLP 1.4mm	R$ 75	
+01756	Kit Capa/Bico/Agulha Pistola MP-250 HVLP 1.7mm	R$ 75	
+02532	Kit Bico/Agulha Pistola MP-741 1.5mm	R$ 120	
+02570	Kit Bico/Agulha Pistola MP-781 1.4mm	R$ 120	
+02608	Kit Bico/Agulha Pistola MP-791 1.4mm	R$ 120	
+02335	Kit Bico/Agulha Pistola MP-600 1.3mm	R$ 280	
+02413	Kit Bico/Agulha Pistola MP-610 1.3mm	R$ 280	
+02480	Kit Capa/Bico/Agulha Pistola MP-700 / MP-710 1.3 mm	R$ 380	
+
+MANGUEIRAS, GUARNIÇÕES E CONEXÕES (31/03/2026)
+
+KIT'S DE GUARNIÇÕES c/ 02 Unid (ENCARTELADOS)
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00278	Kit 2 Guarnições CP-10S / MP-410S / MP-741S / MP-781S	R$ 19,00	
+01681	Kit c/ 02 Guarnições da Caneca JV-10 / MP-21	R$ 25,00	
+01702	Kit c/ 02 Guarnições da Caneca MP-22	R$ 19,00	
+
+GUARNIÇÕES UNITÁRIAS (AVULSAS)
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00251	Guarnição da Caneca COMP-4	—	
+00321	Guarnições da Caneca CP-10S / MP-410S / MP-741S / MP-781S	—	
+01697	Guarnição da Caneca JV-10 / MP-21	—	
+01720	Guarnição da Caneca MP-22	—	
+
+MANGUEIRAS PARA AEROGRAFIA
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00771	Jogo de Mangueira para Aerógrafo (1,5mts) COMP-1 (1/4 x 1/8)	R$ 75	
+00772	Jogo de Mangueira para Aerógrafo (1,5mts) COMP-3 (1/8 x 1/8)	R$ 75	
+
+MANGUEIRAS DE BORRACHA (AR COMPRIMIDO)
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00664	Jogo de Mangueira Borracha 5 Metros com Conexões	R$ 75	
+00665	Jogo de Mangueira Borracha 10 Metros com Conexões	R$ 150	
+00666	Jogo de Mangueira Borracha 15 Metros com Conexões	R$ 190	
+00667	Jogo de Mangueira Borracha 20 Metros com Conexões	R$ 250	
+01005	Mangueira de Borracha 5/16 (Rolo de 100mts sem Conexões)	R$ 750	
+
+MANGUEIRAS DE PU
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+01001	Mangueira de PU 12x8 m/m (Rolo de 100mts sem Conexões)	—	SIM
+01002	Mangueira de PU 4x2.5 m/m (Rolo de 200mts sem Conexões)	—	SIM
+
+MANGUEIRAS DE NYLON (TINTA)
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00669	Jogo de Mangueira Nylon 5 Metros com Conexões	R$ 185	
+00670	Jogo de Mangueira Nylon 10 Metros com Conexões	R$ 185	
+00671	Jogo de Mangueira Nylon 15 Metros com Conexões	R$ 185	
+00672	Jogo de Mangueira Nylon 20 Metros com Conexões	R$ 185	
+00997	Mangueira de Nylon 12 Tecalon (Rolo de 100mts sem Conexões)	R$ 185	
+
+CONEXÕES
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00376	Engate Rápido 1/4	R$ 29	
+02809	Pino para Engate Rápido Fêmea 1/4	R$ 12	SIM
+02810	Pino para Engate Rápido Macho 1/4	R$ 12	SIM
+03260	União Giratória 5/16	R$ 27	SIM
+00127	Engate Rápido Vazão Plena 1/4	R$ 27	SIM
+00128	Pino de Engate Rápido Vazão Plena Femea 1/4	R$ 12	SIM
+00130	Pino de Engate Rápido Vazão Plena Macho 1/4	R$ 12	SIM
+00382	Espigão Fixo 1/4 x 5/16	R$ 12	SIM
+00104	Abraçadeira 12 x 16	R$ 4,50	SIM
+00272	Conexão com Mola 3/8"	R$ 75,00	SIM
+
+CANECAS, VÁLVULAS E ACESSÓRIOS GERAIS (31/03/2026)
+
+CANECAS
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00157	Caneca de Nylon Gravidade 600 ml Rosca Femea	R$ 65,00	
+00159	Caneca de "Alumínio" 600 ml Rosca Femea	R$ 130,00	
+00155	Caneca de Nylon Gravidade 250 ml Rosca Femea	R$ 60,00	
+01836	Caneca de Nylon Gravidade 600 ml Rosca Femea (MP-260-29/30)	R$ 130	
+01908	Caneca de Nylon Gravidade 600 ml Rosca Macho (MP-269)	R$ 130	
+01880	Caneca de Nylon Gravidade 120 ml Rosca Femea	R$ 60	
+00158	UV Caneca de 600ml p/ Produtos UV	R$ 170	
+00154	UV Caneca de 120ml p/ Produtos UV	R$ 90	
+00260	Caneca com Pistola COMP-4	R$ 130	
+02853	SPW Caneca Completa 600 ml	R$ 75	
+02852	SPW Caneca Simples sem Tampa 600 ml	R$ 40	
+02851	SPW Anel da Caneca	R$ 12,00	
+02854	SPW Refil 600 ml	R$ 9,00	
+02855	SPW Tampa da Caneca com Filtro Tela	R$ 15,00	
+00010	SPW Adaptador para Caneca	R$ 95,00	
+
+ACESSÓRIOS EM GERAL
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+00378	Escova de Limpeza	R$ 9,00	
+01006	Manômetro para Filtro 1/4	R$ 50	
+01007	Manômetro para Filtro 1/8	R$ 50	
+00117	Base para Lixadeira de 5"	R$ 75	
+00118	Base para Lixadeira de 6"	R$ 75	
+02856	Suporte para Pistola de Gravidade de Metal	—	
+02802	Oleador para Equipamentos Pneumáticos	—	
+02792	Mini Filtro de Ar para Pistola de Pintura (Filtro de Policarbonato)	R$ 50	
+00412	Mini Filtro de Tinta para Caneca de Pistola de Gravidade (Peneirinha)	R$ 8,00	
+
+VÁLVULAS REGULADORAS DE AR
+
+CÓDIGO	DESCRIÇÃO	PREÇO TABELA	ST
+03285	Válvula Reguladora de Ar "HVLP" c/ Manômetro MP-260 (Prata) (VR-2)	R$ 80	
+03286	Válvula Reguladora de Ar "HVLP" c/ Manômetro MP-400/410 LVLP (VR-3)	R$ 75	
+03287	Válvula Reguladora de Ar "HVLP" c/ Manômetro MP-560 (VR-4)

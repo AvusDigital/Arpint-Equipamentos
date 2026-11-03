@@ -1,0 +1,149 @@
+
+:root{
+  --orange:#ff6a00;
+  --bg:#1f2023;
+  --panel:#2a2b2f;
+  --panel2:#25262a;
+  --text:#f5f5f5;
+  --muted:#9b9b9b;
+  --border:rgba(255,255,255,.12);
+  --photo-bg:#ffd9bd;
+}
+html.light{
+  --bg:#f4f4f2;
+  --panel:#ffffff;
+  --panel2:#eaeae7;
+  --text:#111111;
+  --muted:#606060;
+  --border:rgba(0,0,0,.10);
+  --photo-bg:#ffe4cf;
+}
+
+html{scroll-behavior:smooth}
+
+body{background:var(--bg);color:var(--text);transition:background .25s,color .25s}
+
+.bg-arpint{background:var(--bg)!important}
+
+.bg-panel{background:var(--panel)!important}
+
+.bg-panel2{background:var(--panel2)!important}
+
+.text-main{color:var(--text)!important}
+
+.text-muted{color:var(--muted)!important}
+
+.border-theme{border-color:var(--border)!important}
+
+.orange{color:var(--orange)!important}
+
+.bg-orange{background:var(--orange)!important}
+
+input,textarea,select{color:var(--text)}
+
+.logo-light{
+    display:block;
+}
+
+.logo-dark{
+    display:none;
+}
+
+html.dark .logo-light{
+    display:none;
+}
+
+html.dark .logo-dark{
+    display:block;
+}
+
+.logo-img{
+    max-height:54px;
+    width:auto;
+    object-fit:contain;
+}
+
+.hero-grid{background-image:linear-gradient(rgba(255,255,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.045) 1px,transparent 1px);background-size:42px 42px}
+
+.light .hero-grid{background-image:linear-gradient(rgba(0,0,0,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(0,0,0,.035) 1px,transparent 1px)}
+
+.glow{box-shadow:0 0 70px rgba(255,106,0,.16)}
+
+.product-card{background:var(--panel);border:1px solid var(--border);transition:transform .25s,border-color .25s,box-shadow .25s}
+
+.product-card:hover{transform:translateY(-5px);border-color:rgba(255,106,0,.55);box-shadow:0 20px 60px rgba(0,0,0,.22)}
+
+/* moldura laranja pastel; a foto aparece como é (caneca branca continua branca) */
+.product-image{background:var(--photo-bg);padding:.65rem}
+
+.product-image img{background:#fff;border-radius:.75rem;mix-blend-mode:normal}
+
+.btn-orange{background:var(--orange);color:#fff}
+
+.btn-orange:hover{filter:brightness(1.08);transform:translateY(-1px)}
+
+.theme-btn{border:1px solid var(--border);background:var(--panel)}
+
+.modal-backdrop{background:rgba(0,0,0,.72);backdrop-filter:blur(8px)}
+
+.no-scroll{overflow:hidden}
+
+.toast{animation:toastIn .25s ease-out}
+
+@keyframes toastIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+
+.spin{animation:spin 1s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
+
+.input-theme{background:var(--panel);border:1px solid var(--border);border-radius:.75rem;padding:.85rem 1rem;outline:none}
+
+.input-theme:focus{border-color:rgba(255,106,0,.7);box-shadow:0 0 0 3px rgba(255,106,0,.10)}
+
+.price{letter-spacing:-.03em}
+
+.badge{border:1px solid rgba(255,106,0,.25);background:rgba(255,106,0,.08);color:var(--orange)}
+
+details summary{cursor:pointer}
+
+.product-tab {
+    color: var(--muted);
+    border-bottom: 2px solid transparent;
+    transition: .2s;
+}
+
+.product-tab:hover {
+    color: var(--text);
+}
+
+.product-tab.active {
+    color: var(--orange);
+    border-bottom-color: var(--orange);
+}
+
+/* acessibilidade: foco visível no teclado */
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
+
+/* opções de frete */
+.ship-option{display:flex;width:100%;align-items:center;justify-content:space-between;gap:.75rem;border:1px solid var(--border);border-radius:.75rem;padding:1rem;text-align:left;transition:border-color .2s,background .2s}
+.ship-option:hover{border-color:rgba(255,106,0,.55)}
+.ship-option.selected{border-color:rgba(255,106,0,.6);background:rgba(255,106,0,.07)}
+
+/* abas do frete: Retirada | Correios | Transportadora */
+.ship-tabs{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:.5rem}
+.ship-tab{border:1px solid var(--border);border-radius:.75rem;padding:.7rem .4rem;text-align:center;font-weight:800;font-size:.85rem;line-height:1.2;transition:border-color .2s,background .2s}
+.ship-tab small{display:block;font-weight:500;font-size:.68rem;opacity:.7;margin-top:.15rem}
+.ship-tab:hover:not(:disabled){border-color:rgba(255,106,0,.55)}
+.ship-tab.active{border-color:rgba(255,106,0,.7);background:rgba(255,106,0,.1)}
+.ship-tab:disabled{opacity:.45;cursor:not-allowed}
+
+/* checkout em etapas (Dados pessoais > Pagamento > Obrigado) */
+.stepper{display:flex;overflow:hidden;border:1px solid var(--border);border-radius:.85rem;background:var(--panel)}
+.stepper .step{flex:1;display:flex;align-items:center;gap:.6rem;padding:.85rem 1rem;font-size:.85rem;font-weight:700;opacity:.55;border-right:1px solid var(--border)}
+.stepper .step:last-child{border-right:0}
+.stepper .step .n{display:inline-flex;height:1.65rem;width:1.65rem;flex:none;align-items:center;justify-content:center;border-radius:9999px;background:rgba(127,127,127,.35);color:#fff;font-size:.8rem;font-weight:900}
+.stepper .step.active{opacity:1;background:rgba(255,106,0,.1)}
+.stepper .step.active .n{background:#ff6a00}
+.stepper .step.done{opacity:1}
+.stepper .step.done .n{background:#16a34a}
+.secure-ribbon{display:inline-flex;align-items:center;gap:.4rem;border-radius:.4rem;background:#16a34a;color:#fff;padding:.35rem .75rem;font-size:.72rem;font-weight:800}
+.pay-chip{border:1px solid var(--border);border-radius:.4rem;padding:.2rem .55rem;font-size:.72rem;font-weight:800}
+@media (max-width:560px){.stepper .step{padding:.7rem .5rem;font-size:.72rem;gap:.35rem}}
